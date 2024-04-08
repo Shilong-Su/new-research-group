@@ -14,7 +14,7 @@ authors:
 #  - 'Equal contribution'
 # - 'Equal contribution'
 
-date: '2023-06-14'
+date: '2023-06-14 Angew. Chem. Int. Ed. 2023, 62 (29), e202303242. '
 doi: '10.1016/j.chempr.2023.05.028'
 
 # Schedule page publish date (NOT publication's date).

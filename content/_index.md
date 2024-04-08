@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Welcome from Shilong!
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        PhD Candidate focusing Organic Functional Materials and Semiconductors.
+        Born in Beijing, Now in Hong Kong, Looking at the World.
   
   - block: collection
     content:
@@ -45,7 +45,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: Tap Mun.jpg
           filters:
             brightness: 1
           parallax: false
@@ -61,7 +61,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        Be Modest.
     design:
       columns: '1'
 ---
