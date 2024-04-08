@@ -1,5 +1,5 @@
 ---
-title: 'Covalently Linked Hexakis(m-Phenylene Ethynylene) Macrocycles as Molecular Nanotubes'
+title: 'Covalently Linked Hexakis(m-Phenylene Ethynylene) Macrocycles as Molecular Nanotubes (Angew. Chem. Int. Ed. 2023, 62 (29), e202303242. )'
 authors:
   - Cheng-Yan Wu
   - admin
@@ -21,11 +21,11 @@ publishDate: '2023-05-04T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: 2
 
 # Publication name and optional abbreviated publication name.
 publication: "Angewandte Chemie International Edition"
-publication_short: ''
+publication_short: 'Angew. Chem. Int. Ed.'
 
 abstract: A strategy for constructing organic nanotubes with defined lengths was developed by designing and synthesizing macrocycles with a β-alanine linker. Oligomeric hexakis(m-phenylene ethynylene) macrocycles with four macrocyclic units as molecular nanotubes can form potassium and proton channels across lipid bilayers, with the channels being open continuously for over 60 s.
 

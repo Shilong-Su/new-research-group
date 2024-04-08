@@ -1,5 +1,5 @@
 ---
-title: 'Negatively curved molecular nanocarbons containing multiple heptagons are enabled by the Scholl reactions of macrocyclic precursors'
+title: 'Negatively curved molecular nanocarbons containing multiple heptagons are enabled by the Scholl reactions of macrocyclic precursors (Chem 2023, 9 (10), 2855-2868. )'
 authors:
   - Ka Man Cheung
   - Yongming Xiong
@@ -24,7 +24,7 @@ publishDate: '2017-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: 2
 
 # Publication name and optional abbreviated publication name.
 publication: '*Chem 2023, 9 (10), 2855-2868. *'
