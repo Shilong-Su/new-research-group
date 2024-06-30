@@ -1,5 +1,5 @@
 ---
-title: Shilong is a PhD Candidate now
+title: Dec-12-2023 Shilong is a PhD Candidate now!
 date: 2023-12-12
 image:
   focal_point: 'top'

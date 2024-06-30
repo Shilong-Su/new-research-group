@@ -1,5 +1,5 @@
 ---
-title: Shilong Attended The 30th Symposium on Chemistry Postgraduate Research in Hong Kong
+title: Apr-06-2024 Shilong Attended The 30th Symposium on Chemistry Postgraduate Research in Hong Kong
 date: 2024-04-06
 image:
   focal_point: 'top'
