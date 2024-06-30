@@ -14,11 +14,11 @@ authors:
 #  - 'Equal contribution'
 # - 'Equal contribution'
 
-date: '2023-06-14 Angew. Chem. Int. Ed. 2023, 62 (29), e202303242. '
+date: '2023-06-14'
 doi: '10.1016/j.chempr.2023.05.028'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-06-14T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
