@@ -1,10 +1,10 @@
 ---
-title: The 30th Symposium on Chemistry Postgraduate Research in Hong Kong
+title: IUMRS-ICEM 2024
 
-event: The 30th Symposium on Chemistry Postgraduate Research in Hong Kong
-event_url: https://www.cityu.edu.hk/chem/symposium/homepage/index.htm
+event: nternational Union of Materials Research Societies – 18th International Conference on Electronic Materials 2024
+event_url: https://hkmrs.org/iumrs-icem2024/index.html
 
-location: City University of Hong Kong & Online
+location: City University of Hong Kong 
 address:
   street: 83 Tat Chee Avenue
   city: Kowloon
@@ -12,17 +12,17 @@ address:
   postcode: 518057
   country: China
 
-summary: Shilong attended the online poster session of 30th HK grad symposium, sharing his recent research progress.
-abstract: 'Shilong attended the online poster session of 30th HK grad symposium, sharing his recent research progress.'
+summary: Shilong Shared his research progress during Poster session of IUMRS-ICEM 2024
+abstract: 'Shilong Shared his research progress during Poster session of IUMRS-ICEM 2024'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-04-06T10:00:00Z'
-date_end: '2024-04-06T16:15:00Z'
+date: '2024-05-19T12:00:00Z'
+date_end: '2024-05-19T13:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-04-07T19:00:00Z'
+publishDate: '2024-05-19T23:00:00Z'
 
 authors: []
 tags: []
