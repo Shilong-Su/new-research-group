@@ -20,8 +20,8 @@ sections:
         country: China
         country_code: CN
       coordinates:
-        latitude: '22.2508"'
-        longitude: '114.1228'
+        latitude: '22.4189'
+        longitude: '114.2080'
       directions: 
       office_hours:
         - N/A
