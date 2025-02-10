@@ -5,6 +5,6 @@ image:
   focal_point: 'top'
 ---
 
-Shilong attended the online poster session of 30th HK grad symposium, sharing his recent research progress.
+Shilong attended the online poster session of _The 30th Symposium on Chemistry Postgraduate Research in Hong Kong_, sharing his recent research progress.
 
 

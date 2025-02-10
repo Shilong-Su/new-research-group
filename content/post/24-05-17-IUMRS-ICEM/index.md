@@ -7,6 +7,7 @@ image:
 
 Shilong attended the _International Union of Materials Research Societies – 18th International Conference on Electronic Materials 2024 (IUMRS-ICEM 2024)_ in Hong Kong, and shared his research progress during poster session, which was later awarded __Best Poster Award (Gold)__! 
 Photo was taken during the gala dinner with Prof. Qian Miao.
+More to see from the official Website: https://hkmrs.org/iumrs-icem2024/index.html
 
 
 
