@@ -1,26 +1,24 @@
 ---
-title: 'A Key Fragment in Carbon Schwarzite Unit Cells and Its Triple [6]Helicene Precursor (Angew. Chem. Int. Ed. 2025, 64 (21), e202501169.)'
+title: 'Synthesis, π-Stacking and Application of Tetraethynyl Dioxotriangulenes (Precis. Chem. 2026, 4 (7), 1079-1084.)'
 authors:
-  - Xinhe Yang 
+  - Huishu Ma
+  - Jiawei Peng
+  - Zheng Zhou
   - admin
-  - Chenyu Hu
-  - Ka Man Cheung
-  - Daiyue Yang
-  - Xiao Chen
+  - Hung Kay Lee
+  - Xin Xie
   - Jun Yang
-  - Zhifeng Huang
-  - Fuk Yee Kwong
   - Qian Miao
 
 # author_notes:
 #  - 'Equal contribution'
 # - 'Equal contribution'
 
-date: '2025-05-19'
-doi: '10.1002/anie.202501169'
+date: '2026-07-27'
+doi: '10.1021/prechem.5c00444'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-05-19T00:00:00Z'
+publishDate: '2026-01-07T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,10 +27,10 @@ publishDate: '2025-05-19T00:00:00Z'
 publication_types: 2
 
 # Publication name and optional abbreviated publication name.
-publication: '*Angew. Chem. Int. Ed. 2025, 64 (21), e202501169. *'
-publication_short: 'Angew. Chem. Int. Ed. 2025, 64 (21), e202501169. '
+publication: '*Precis. Chem. 2026, 4 (7), 1079-1084. *'
+publication_short: 'Precis. Chem. 2026, 4 (7), 1079-1084. '
 
-abstract: This study explores two structurally related π-skeletons. The π-skeleton of compounds 1a–e containing three heptagons represents a key fragment in theoretical carbon schwarzites, while that of 2a–b is a triple [6]helicene. Compounds 1a–e were synthesized via Scholl reactions, and using a weaker acid allowed the reaction to stop at an intermediate stage, yielding 2a–b. X-ray crystallography revealed not only distinct stereochemistry of 1b and 2a but also unique supramolecular assemblies in the clathrate of 2a with chloroform. Compound 1b adopts a saddle-like geometry, while 2a exhibits a propeller-like structure with C3 symmetry, consistent with density functional theory (DFT) calculations. The π-skeleton of 1a–e is flexible, enabling rapid enantiomerization, whereas that of 2a–b is rigid, allowing resolution of 2b into optically pure forms with an absorption dissymmetry factor as high as 0.015. Comparative analysis shows that presence of seven-membered rings in 1a–e does not significantly alter the local aromaticity of the triple [6]helicene framework.
+abstract: 4,8-Dioxotriangulene (DOT) features a triangulene core functionalized with two carbonyl groups, which stabilizes its radical anion through delocalization of negative charge and spin density across the extended π-framework. This study demonstrates that DOT derivatives serve as viable building blocks for n-type organic semiconductors. Tetraethynyl DOTs (1a–c) bearing triisopropylsilyl, trimethylsilyl, and butyl substituents, respectively, were successfully synthesized via an unprecedented formal Pd-catalyzed C(Ar)–O bond activation of phenolic esters. Single-crystal X-ray analysis reveals 1a assembles into discrete π-stacked tetramers, while 1b forms a one-dimensional π-stack with substantial interplanar overlap. Electrochemical reduction of 1b generates a persistent radical anion confirmed by EPR and UV–vis spectroscopy. Solution-processed films of 1b function as n-type semiconductors in field-effect transistors.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

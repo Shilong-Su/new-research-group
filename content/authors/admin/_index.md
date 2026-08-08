@@ -10,7 +10,7 @@ last_name: Su
 superuser: true
 
 # Role/position
-role: PhD Candidate, Department of Chemistry, The Chinese University of Hong Kong
+role: Postdoctoral Scholar, Department of Chemistry, The Chinese University of Hong Kong
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD Candidate, Department of Chemistry, The Chinese University of Hong Kong
+bio: Postdoctoral Scholar, Department of Chemistry, The Chinese University of Hong Kong
 
 interests:
   - Organic Functional Materials
@@ -27,15 +27,18 @@ interests:
 
 education:
   courses:
-    - course: PhD Candidate in Chemistry
+    - course: Ph.D in Chemistry
       institution: The Chinese University of Hong Kong
-      year: 2022-
+      year: 2022-2026
     - course: B.A in Chinese Language and Literature
       institution: Beijing Normal University
       year: 2019-2022
     - course: BSc in Chemistry
       institution: Beijing Normal University
       year: 2018-2022
+
+
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -73,5 +76,5 @@ user_groups:
 ---
 
 中文名：苏世龙, you can also call me Felix.
-I am a PhD Candidate in Prof. Qian Miao's Group, Department of Chemistry, The Chinese University of Hong Kong, working on π-conjugated systems and organic semiconductors. Born in Beijing, I got B. Sc. in Chemistry and B.A. (minor) in Chinese Language and Literature in Beijing Normal Universtiy, were I worked on carbon nanomaterials and π-conjugated rigid organic macrocycles.
+I am a Postdoctoral Scholar in Prof. Qian Miao's Group, Department of Chemistry, The Chinese University of Hong Kong (CUHK), working on π-conjugated systems and organic semiconductors. Before that, he earned his Ph.D in Chemistry in CUHK, under the supervision of Prof. Qian Miao. Born in Beijing, I got B. Sc. in Chemistry and B.A. (minor) in Chinese Language and Literature in Beijing Normal Universtiy, were I worked on carbon nanomaterials and π-conjugated rigid organic macrocycles.
 

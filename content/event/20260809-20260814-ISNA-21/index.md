@@ -1,28 +1,28 @@
 ---
-title: IUMRS-ICEM 2024
+title: ISNA-21 
 
-event: nternational Union of Materials Research Societies – 18th International Conference on Electronic Materials 2024
-event_url: https://hkmrs.org/iumrs-icem2024/index.html
+event: The 21st International Symposium on Novel Aromatic Compounds
+event_url: https://isna2026.scimeeting.cn/en/web/index/30625
 
-location: City University of Hong Kong 
+location: Peking University
 address:
-  street: 83 Tat Chee Avenue
-  city: Kowloon
-  region: HK
-  postcode: 518057
+  street: No. 5 Yiheyuan Road
+  city: Haidian District
+  region: Beijing
+  postcode: 100871
   country: China
 
-summary: Shilong Shared his research progress during Poster session of IUMRS-ICEM 2024
-abstract: 'Shilong Shared his research progress during Poster session of IUMRS-ICEM 2024'
+summary: Shilong will share his research progress during Poster session of ISNA-21
+abstract: 'Shilong will share his research progress during Poster session of ISNA-21, Twesday session'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-05-19T12:00:00Z'
-date_end: '2024-05-19T13:00:00Z'
+date: '2026-08-09T12:00:00Z'
+date_end: '2026-08-14T13:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-05-19T23:00:00Z'
+publishDate: '2026-08-09T08:00:00Z'
 
 authors: []
 tags: []

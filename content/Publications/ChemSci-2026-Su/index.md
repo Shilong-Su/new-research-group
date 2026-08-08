@@ -1,26 +1,18 @@
 ---
-title: 'A Key Fragment in Carbon Schwarzite Unit Cells and Its Triple [6]Helicene Precursor (Angew. Chem. Int. Ed. 2025, 64 (21), e202501169.)'
+title: 'Robust π-conjugated radical cations (Chem. Sci. 2026, 17 (1), 36-51.)'
 authors:
-  - Xinhe Yang 
   - admin
-  - Chenyu Hu
-  - Ka Man Cheung
-  - Daiyue Yang
-  - Xiao Chen
-  - Jun Yang
-  - Zhifeng Huang
-  - Fuk Yee Kwong
   - Qian Miao
 
 # author_notes:
 #  - 'Equal contribution'
 # - 'Equal contribution'
 
-date: '2025-05-19'
-doi: '10.1002/anie.202501169'
+date: '2026-01-07'
+doi: '10.1039/d5sc06726j'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-05-19T00:00:00Z'
+publishDate: '2026-01-07T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,10 +21,10 @@ publishDate: '2025-05-19T00:00:00Z'
 publication_types: 2
 
 # Publication name and optional abbreviated publication name.
-publication: '*Angew. Chem. Int. Ed. 2025, 64 (21), e202501169. *'
-publication_short: 'Angew. Chem. Int. Ed. 2025, 64 (21), e202501169. '
+publication: '*Chem. Sci. 2026, 17 (1), 36-51. *'
+publication_short: 'Chem. Sci. 2026, 17 (1), 36-51. '
 
-abstract: This study explores two structurally related π-skeletons. The π-skeleton of compounds 1a–e containing three heptagons represents a key fragment in theoretical carbon schwarzites, while that of 2a–b is a triple [6]helicene. Compounds 1a–e were synthesized via Scholl reactions, and using a weaker acid allowed the reaction to stop at an intermediate stage, yielding 2a–b. X-ray crystallography revealed not only distinct stereochemistry of 1b and 2a but also unique supramolecular assemblies in the clathrate of 2a with chloroform. Compound 1b adopts a saddle-like geometry, while 2a exhibits a propeller-like structure with C3 symmetry, consistent with density functional theory (DFT) calculations. The π-skeleton of 1a–e is flexible, enabling rapid enantiomerization, whereas that of 2a–b is rigid, allowing resolution of 2b into optically pure forms with an absorption dissymmetry factor as high as 0.015. Comparative analysis shows that presence of seven-membered rings in 1a–e does not significantly alter the local aromaticity of the triple [6]helicene framework.
+abstract: π-Conjugated radical cations, open-shell species carrying a positive charge, serve as charge carriers in p-type organic semiconductors, underpinning the operation of various organic electronic devices. Although they are traditionally perceived as highly reactive and challenging to isolate under ambient conditions, recent advances in electronic and steric stabilization have enabled the isolation and full characterization of a number of robust π-conjugated radical cations. This review provides a comprehensive overview of fully characterized π-conjugated radical cations, with particular emphasis on species identified via single-crystal X-ray crystallography within the last two decades. We highlight structural features and stabilization strategies that enable ambient stability, and explore structure–property relationships critical to their application in organic electronic materials, indicating the potential to enhance material stability and improve device performance. Based on this analysis, we assess the current state of the field and outline promising future directions.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
